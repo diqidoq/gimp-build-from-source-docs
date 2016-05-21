@@ -24,10 +24,12 @@ So lets start with a step by step draft, which we will split later into peaces w
 Preparation
 -----------
 
-We basically will have 2 folders to maintain for Nordholts approach: 
+We finally will have 2 folders to maintain by Nordholts approach: 
 
- 1. `gimp` The automatically created sub folder from the cloning of the git repository (will be created automatically while cloning)
- 2. `install` A second sub folder for the later installation from the build (You can nam eit liek you want)
+ 1. `gimp`
+   + The automatically created sub folder from the cloning of the git repository (will be created automatically while cloning)
+ 2. `install`
+   + A second sub folder for the later installation from the build (You can nam eit liek you want)
 
 NOTE: I personally recommend to seperate the whole gimp development version folder structure from the rest of the user folder. But you can choose what you want. You only need to fit the rest of the tutorial to your needs. 
 
