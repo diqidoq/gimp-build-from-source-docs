@@ -24,7 +24,7 @@ So lets start with a step by step draft, which we will split later into peaces w
 Preparation
 -----------
 
-We basically use 2 folders for Nordholts approach (of course there are others): 
+We basically use 2 folders for Nordholts approach: 
 
  1. First sub folder from the cloning of the git repository (will created automatically while cloning)
  2. Second sub folder for the later installation from the build
