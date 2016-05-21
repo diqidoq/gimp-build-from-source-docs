@@ -15,14 +15,14 @@ I assume that you use a terminal on a regular basis and that you already know wh
 
 I also assume that you already have made some attempts to build other software from source or have some experience in make & make install procedures (for example ffmpeg was such case for a long time)...
 
-I also would like to mention that I wrote this only because I felt some kind of confused in parts of the original doocumentation and with the awesome and nice help of the Gimp developers in the #gimp IRC channel, which actually very busy to develop such a great application suite like Gimp, I was able to clarify this parts and this report is a mirror of this clarifications.
+I also would like to mention that I wrote this only because I felt some kind of confused in parts of the original documentation, and with the awesome and nice help of the Gimp developers in the #gimp IRC channel, which are actually very busy to develop such a great application suite like Gimp, I was able to clarify this parts. This report is a mirror of this clarifications.
 
 So lets start with a step by step draft, which we will split later into peaces with explanations:
 
 Preparation
 -----------
 
-We need basically 2 folders for Nordholts approch: one for the git clone (let's called it git) and one for the install from the build (let's call it build here). Both would best put in your user home folder and maybe under something grouping like a gimp-dev folder to sum it up and to sepereated it from your original Gimp release .gimp-2.8 config folder and the rest of your user folder:
+We need basically 2 folders for Nordholts approach: one for the git clone (let's called it git) and one for the install from the build (let's call it build here). Both would best put in your user home folder and maybe under something grouping like a gimp-dev folder to sum it up and to sepereated it from your original Gimp release .gimp-2.8 config folder and the rest of your user folder:
 
     mkdir -p ~/gimp-dev/git
     mkdir -p ~/gimp-dev/build
