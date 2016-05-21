@@ -33,7 +33,7 @@ We finally will have 2 folders to maintain by Nordholts approach:
    + A second sub folder for the later installation from the build
    + You can name it like you want
 
-NOTE: I personally recommend to seperate the whole gimp development version folder structure from the rest of the user folder. But you can choose what you want. You only need to fit the rest of the tutorial to your needs. 
+NOTE: I personally recommend to seperate the whole gimp development version folder structure from the rest of the user folder. But you can choose what you want. You only need to fit the rest of the tutorial to your needs. I even put the `gimp-dev` folder inside another top folder where I have all my custom builds and code snippets inside (mostly at `bin` or `share`). But let'S keep it with `gimp-dev` in user folder for now:
 
 Following my attempt both would best be put in a grouping folder like `gimp-dev` inside your user folder to seperate it from your possible original Gimp release .gimp-2.8 config folder (Linux) and the rest of your user folder. You can achieve this in one single terminal command. The first sub folder doesn't need to be created manually. Let's call the second `install`. 
 
