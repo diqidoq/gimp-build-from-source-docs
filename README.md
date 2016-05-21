@@ -24,7 +24,7 @@ So lets start with a step by step draft, which we will split later into peaces w
 Preparation
 -----------
 
-We finally will have 2 folders to maintain by Nordholts approach: 
+We finally will have 2 folders to maintain by Nordholts approach (Use the names you want, this is an example): 
 
  1. `gimp`
    + The automatically created sub folder from the cloning of the git repository
