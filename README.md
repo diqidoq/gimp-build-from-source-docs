@@ -1,4 +1,4 @@
-# Build Gimp from source for the toddlers
+# Build Gimp from source (Draft)
 A documentation draft for a tutorial how to build gimp from source under Linux for those who like to read twice what to do and when and where before fiddling around.
 
 Based on: https://www.gimp.org/source/howtos/gimp-git-build.html which was originally published at:
