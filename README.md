@@ -24,10 +24,10 @@ So lets start with a step by step draft, which we will split later into peaces w
 Preparation
 -----------
 
-We basically use 2 folders for Nordholts approach: 
+We basically will have 2 folders to maintain for Nordholts approach: 
 
- 1. First sub folder from the cloning of the git repository (will created automatically while cloning)
- 2. Second sub folder for the later installation from the build
+ 1. `gimp` The automatically created sub folder from the cloning of the git repository (will be created automatically while cloning)
+ 2. `install` A second sub folder for the later installation from the build (You can nam eit liek you want)
 
 NOTE: I personally recommend to seperate the whole gimp development version folder structure from the rest of the user folder. But you can choose what you want. You only need to fit the rest of the tutorial to your needs. 
 
@@ -35,7 +35,7 @@ Following my attempt both would best be put in a grouping folder like `gimp-dev`
 
     mkdir -p ~/gimp-dev/install
     
-Now we clone Gimp development branch from git into the ~/gimp-dev folder, which will create a gimp folder inside `~/gimp-dev` (NOTE: this takes a while, it is a huge repo!):
+Now we clone Gimp development branch from git into the ~/gimp-dev folder, which will create the mentioned first sub folder named `gimp` inside `~/gimp-dev` (NOTE: this takes a while, it is a huge repo!):
 
     cd ~/gimp-dev && git clone git://git.gnome.org/gimp
     
